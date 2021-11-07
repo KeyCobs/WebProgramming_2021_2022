@@ -1,13 +1,17 @@
 ﻿using LiteDB;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Policy;
 using System.Threading.Tasks;
 
 namespace Jacobs_Kevin_3IMS_BackEnd.Data
 {
     public class EuroSongDataBase : IEuroSongDataContext
     {
+
         LiteDatabase db = new LiteDatabase("songs.db");
         #region Get
         //Gets
@@ -24,7 +28,7 @@ namespace Jacobs_Kevin_3IMS_BackEnd.Data
 
         public IEnumerable<Song> GetSpecificSongs(string word)
         {
-            return db.GetCollection<Song>("Songs").Find(item => item.Title.Contains(word)/* || item.Artist.Contains(word)*/);
+            return db.GetCollection<Song>("Songs").Find(item => item.Title.Contains(word));
         }
         public int GetTotalPoints(int id)
         {
@@ -34,6 +38,10 @@ namespace Jacobs_Kevin_3IMS_BackEnd.Data
         }
         #endregion
         #region Artist
+        public IEnumerable<Artist> GetSpecificArtist(string word)
+        {
+            return db.GetCollection<Artist>("Artist").Find(item => item.Name.Contains(word));
+        }
         public IEnumerable<Artist> GetArtists()
         {
             return db.GetCollection<Artist>("Artist").FindAll();
@@ -44,7 +52,7 @@ namespace Jacobs_Kevin_3IMS_BackEnd.Data
         }
         public IEnumerable<Song> GetSongsByArtist(int id, string artist)
         {
-            if (artist != null)
+            if (artist != "")
             {
                 int idArt = db.GetCollection<Artist>("artist").FindOne(item => item.Name.Equals(artist)).ID;
                 return db.GetCollection<Song>("Songs").Find(item => item.Artist_id.Equals(idArt));
@@ -67,19 +75,18 @@ namespace Jacobs_Kevin_3IMS_BackEnd.Data
         {
             return db.GetCollection<Vote>("Vote").Find(item => item.Song_ID.Equals(id));
         }
-        //Adds
-        public void AddSong(Song song)
-        {
-            db.GetCollection<Song>("Songs").Insert(song);
-        }
         #endregion
         #endregion
         #region Add
+        //Adds
+        public void AddSong(Song song)
+        {           
+            db.GetCollection<Song>("Songs").Insert(song);
+        }
         public void AddArtist(Artist artist)
         {
             db.GetCollection<Artist>("Artist").Insert(artist);
         }
-
         public void AddVote(Vote vote)
         {
             db.GetCollection<Vote>("Vote").Insert(vote);
@@ -91,7 +98,6 @@ namespace Jacobs_Kevin_3IMS_BackEnd.Data
         {
             db.GetCollection<Song>("Songs").Update(id, song);
         }
-
         public void UpdateVote(int id, Vote vote)
         {
             db.GetCollection<Vote>("Vote").Update(id, vote);
@@ -103,22 +109,21 @@ namespace Jacobs_Kevin_3IMS_BackEnd.Data
         #endregion
         #region Delete
         //Deletes
-
         public void DeleteSong(int id)
         {
             db.GetCollection<Song>("Songs").Delete(id);
         }
-
         public void DeleteArtist(int id)
         {
             db.GetCollection<Artist>("Artist").Delete(id);
         }
-
         public void DeleteVote(int id)
         {
             db.GetCollection<Vote>("Vote").Delete(id);
         }
-
         #endregion
+
+
+       
     }
 }

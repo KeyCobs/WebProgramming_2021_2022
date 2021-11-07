@@ -18,6 +18,7 @@ namespace Jacobs_Kevin_3IMS_BackEnd.Data
         #region Artist
         //Artist
         IEnumerable<Artist> GetArtists();
+        IEnumerable<Artist> GetSpecificArtist(string word);
         Artist GetArtistById(int id);
         IEnumerable<Song> GetSongsByArtist(int id,string artist);
         #endregion

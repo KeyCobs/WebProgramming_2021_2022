@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Jacobs_Kevin_3IMS_BackEnd.Data;
-
+using Microsoft.AspNetCore.Authorization;
 
 namespace Jacobs_Kevin_3IMS_BackEnd.Controllers
 {
@@ -23,16 +23,18 @@ namespace Jacobs_Kevin_3IMS_BackEnd.Controllers
 
         //GET
         [HttpGet]
-        public ActionResult<IEnumerable<Artist>> Get()
+
+        public ActionResult<IEnumerable<Artist>> Get(string artist)
         {
-            //if (title != "")
-            //{
-            //    return Ok(_data.GetSpecificArtist(title));
-            //}
+            if (artist != "")
+            {
+                return Ok(_data.GetSpecificArtist(artist));
+            }
             return Ok(_data.GetArtists());
             //  return NotFound("Song was not found!");
         }
         [HttpGet("{id}")]
+        [Authorize(Policy = "basicAuthentication", Roles = "admin")]
         public ActionResult<Artist> Get(int id)
         {
             Artist ar = _data.GetArtistById(id);
@@ -41,6 +43,7 @@ namespace Jacobs_Kevin_3IMS_BackEnd.Controllers
         }
  
         [HttpGet("{id}/Song")]
+        [Authorize(Policy = "basicAuthentication")]
         public ActionResult<IEnumerable<Song>> GetAction(int id,string artist = "")
         {
             return Ok(_data.GetSongsByArtist(id,artist));
@@ -50,6 +53,7 @@ namespace Jacobs_Kevin_3IMS_BackEnd.Controllers
 
         //PUT
         [HttpPut]
+        [Authorize(Policy = "basicAuthentication", Roles = "admin")]
         public ActionResult Update(int id, [FromBody]Artist artist)
         {
             _data.UpdateArtist(id, artist);
@@ -59,6 +63,7 @@ namespace Jacobs_Kevin_3IMS_BackEnd.Controllers
 
         //POST
         [HttpPost]
+        [Authorize(Policy = "basicAuthentication", Roles = "admin")]
         public ActionResult Post([FromBody]Artist artist)
         {
             _data.AddArtist(artist);
@@ -68,6 +73,7 @@ namespace Jacobs_Kevin_3IMS_BackEnd.Controllers
 
         //DELETE
         [HttpDelete]
+        [Authorize(Policy = "basicAuthentication", Roles = "admin")]
         public ActionResult Delete(int id)
         {
             _data.DeleteArtist(id);

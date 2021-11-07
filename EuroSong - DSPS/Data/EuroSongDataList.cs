@@ -117,5 +117,10 @@ namespace Jacobs_Kevin_3IMS_BackEnd.Data
         {
             throw new NotImplementedException();
         }
+
+        public IEnumerable<Artist> GetSpecificArtist(string word)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
