@@ -1,0 +1,146 @@
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\appsettings.Development.json
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\appsettings.json
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.exe
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.deps.json
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.runtimeconfig.json
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.runtimeconfig.dev.json
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\ref\Jacobs_Kevin_3IMS_Eurosong.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.pdb
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Aliyun.OSS.Core.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\CSRedisCore.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\LightDB.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\LiteDB.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.AssemblyInfoInputs.cache
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.AssemblyInfo.cs
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.csproj.CoreCompileInputs.cache
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.MvcApplicationPartsAssemblyInfo.cs
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.MvcApplicationPartsAssemblyInfo.cache
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\scopedcss\bundle\Jacobs_Kevin_3IMS_Eurosong.styles.css
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\staticwebassets\Jacobs_Kevin_3IMS_Eurosong.StaticWebAssets.Manifest.cache
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.RazorTargetAssemblyInfo.cache
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.csproj.CopyComplete
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\ref\Jacobs_Kevin_3IMS_Eurosong.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.pdb
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.genruntimeconfig.cache
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.csproj.AssemblyReference.cache
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.AspNet.Identity.Owin.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.Owin.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.Owin.Security.Cookies.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.Owin.Security.OAuth.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Owin.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\AspNetCore.Identity.LiteDB.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\System.Web.Http.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Swashbuckle.Core.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\OAuth2ClientHandler.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Elasticsearch.Net.dll
+D:\Documenten\School\2021-2022\Programming_Task01\SongFestival\ProgrammingWeb-master\EuroSong - DSPS\bin\Debug\net5.0\Nest.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\appsettings.Development.json
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\appsettings.json
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.exe
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.deps.json
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.runtimeconfig.json
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.runtimeconfig.dev.json
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\ref\Jacobs_Kevin_3IMS_Eurosong.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.pdb
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Aliyun.OSS.Core.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\AspNetCore.Identity.LiteDB.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\CSRedisCore.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Elasticsearch.Net.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\LightDB.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\LiteDB.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.AspNet.Identity.Owin.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\System.Web.Http.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.Owin.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.Owin.Security.Cookies.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Microsoft.Owin.Security.OAuth.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Nest.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\OAuth2ClientHandler.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Owin.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\Swashbuckle.Core.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.csproj.AssemblyReference.cache
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.AssemblyInfoInputs.cache
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.AssemblyInfo.cs
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.csproj.CoreCompileInputs.cache
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.MvcApplicationPartsAssemblyInfo.cs
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.MvcApplicationPartsAssemblyInfo.cache
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\scopedcss\bundle\Jacobs_Kevin_3IMS_Eurosong.styles.css
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\staticwebassets\Jacobs_Kevin_3IMS_Eurosong.StaticWebAssets.Manifest.cache
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.RazorTargetAssemblyInfo.cache
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.csproj.CopyComplete
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\ref\Jacobs_Kevin_3IMS_Eurosong.dll
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.pdb
+D:\Documenten\School\2021-2022\Programming_Task01\Songfestival_FrontandBack\WebProgramming_2021_2022\BackEnd\obj\Debug\net5.0\Jacobs_Kevin_3IMS_Eurosong.genruntimeconfig.cache
